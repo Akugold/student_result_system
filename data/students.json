@@ -1,0 +1,17 @@
+[
+    {
+        "student_id": "STU002",
+        "full_name": "Godfrey Aku",
+        "student_class": "SS3",
+        "gender": "Female",
+        "date_of_birth": "2006-04-09",
+        "scores": {
+            "English Language": 34,
+            "Mathematics": 5,
+            "Basic Science": 6,
+            "Social Studies": 7,
+            "Computer Studies": 8
+        },
+        "result_date": "2026-11-12 23:50"
+    }
+]

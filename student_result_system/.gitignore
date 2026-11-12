@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/class_report.txt
+data/results.csv
