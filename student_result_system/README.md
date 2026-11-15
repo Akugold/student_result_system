@@ -162,13 +162,6 @@ The sample file `data/students.json` contains one example student. Delete the co
    git push -u origin main
    ```
 
-4. Make more commits as you improve the project, for example:
-
-   ```
-   git add .
-   git commit -m "student_result_system"
-   git push
-   ```
 
 ## Author
 
